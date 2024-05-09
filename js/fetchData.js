@@ -28,3 +28,4 @@ export async function fetchData(arr,valor,api){
             return await fetchData(pokemons,bool,data.next)
         }
 }
+
