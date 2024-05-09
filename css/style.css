@@ -59,18 +59,17 @@ nav{
     position: absolute;
     border-left: black solid 2px;
     overflow: auto;
-    background-color: rgba(241, 69, 69, 0.463);
+    background-color: rgb(241, 69, 69);
     width: 50%;
     height: 90vh;
     justify-self: flex-end;
     display: flex;
     flex-direction: column;
-    filter: blur(.5px);
     right: 0;
 }
 
 .nav-mobile .nav-btn{
-    background: #ffffffd4;
+    background: #ffffff;
 }
 
 .nav-mobile h1{
